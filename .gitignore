@@ -1,2 +1,6 @@
 *.zip
 *.pdf
+RRSS.html
+RRSS.ipynb
+
+/.venv

@@ -1,0 +1,19 @@
+# Núcleo de análisis
+pandas>=2.2
+numpy>=1.26
+
+# Visualización
+matplotlib>=3.8
+wordcloud>=1.9
+
+# Redes
+networkx>=3.3
+python-louvain>=0.16  # import community as community_louvain
+
+# NLP + tópicos
+nltk>=3.8.1
+scikit-learn>=1.4
+
+# Kernel y entorno de notebook
+ipykernel>=6.29
+notebook>=7.2  # o jupyterlab>=4 si prefieres Lab
